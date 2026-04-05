@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ZR NET TV
-https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1775416417/ei/AWDSaYSHO97s0PoPpPXMUA/ip/2001:448a:7065:209b:1c06:1436:7df1:583f/id/eSCUBI9HzQw.1/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/rqh/1/hls_chunk_host/rr3---sn-2uuxa3vh-hqjz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AUUZDGKC-7GTN65IWxVSkLcq-Kv6VIjBWOdjv-OV8whvZjXgeuHvWEIoJJpcuIkBfpd2usRsaXaVHUmq/spc/jlWavYMiWHzkx-We2eVUjWfUomBiDkXdjcn4G975UOFsgxmAVg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/831250/met/1775394818,/mh/XZ/mm/44/mn/sn-2uuxa3vh-hqjz/ms/lva/mv/m/mvi/3/pl/52/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1775394288/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgKpsDvdbAKSCJB84e3iI1XtqjzUyS2XB5GDTwbTKz44wCICZrTu1aRAypxPPb6xIg2-uRpeKzEawZ6QtIMq4Aej3X/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgeYZpW887EE7P_O7Htz7L_TIYELLsIASljGg8PxjgsOkCICqjKlB3iab4Uyoi3lEkrGC8zs8lcecPGY_lEMOxd-yO/playlist/index.m3u8
 #EXTINF:-1,Magna channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1,VTV
