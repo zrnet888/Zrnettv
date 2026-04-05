@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,ZRTV
+#EXTINF:-1,ZR NET TV
 https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
 #EXTINF:-1,Magna channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
@@ -22,7 +22,7 @@ https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1,sindonews
 https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTINF:-1,Deluxe music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 #EXTINF:-1,MDTV
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:-1,rcti
