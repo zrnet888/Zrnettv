@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,ZR RADIO
-https://s1.cloudmu.id/listen/prambors/stream
+https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516
 #EXTINF:-1,Prambors
 https://s1.cloudmu.id/listen/prambors/stream
 #EXTINF:-1,delta fm
