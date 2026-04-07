@@ -1,6 +1,6 @@
 #EXTM3U
-
-
+#EXTINF:-1,ZR-radio
+https://cast2.my-control-panel.com/proxy/radios14/stream
 #EXTINF:-1,Prambors
 https://s1.cloudmu.id/listen/prambors/stream
 #EXTINF:-1,delta fm
