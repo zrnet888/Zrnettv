@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1,ZR-radio
-https://cast2.my-control-panel.com/proxy/radios14/stream
+
 #EXTINF:-1,Prambors
 https://s1.cloudmu.id/listen/prambors/stream
 #EXTINF:-1,delta fm
@@ -21,3 +20,5 @@ https://svara-stream.radioddns.net/manado_ralfm
 https://i.klikhost.com:9044/stream
 #EXTINF:-1,Gita lestari fm bitung
 http://svara-stream.radioddns.net:8900/gitalestarifmbitung_mono
+#EXTINF:-1,zr net (radio)
+https://s1.cloudmu.id/listen/delta_fm/stream
