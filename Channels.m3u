@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,ZR NET TV
+#EXTINF:-1,Zoo-moo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Magna channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
@@ -27,5 +27,5 @@ http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:-1,rcti
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
-#EXTINF:-1,gtv
-https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+#EXTINF:-1,ZR net TV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1775675119/ei/j1LWacuoJ5eEg8UP5sDooAs/ip/2001:448a:7065:2e23:5def:1f54:5095:345/id/FrNqJW1BEfQ.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr3---sn-2uuxa3vh-hqjd.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AUUZDGJCSPDfFuWijUTEHuioxoS-B48lP62pyP7ydVEpd-g8gUjkN7EJVwjngiTRvSS6sdW9FmOSKzN-/spc/jlWavYq0wvo8hKmxpFENzCsdLJ94mp9O5PptE3ZoS45ySrraVg/vprv/1/reg/0/playlist_type/DVR/initcwndbps/837500/met/1775653525,/mh/nA/mm/44/mn/sn-2uuxa3vh-hqjd/ms/lva/mv/m/mvi/3/pcm2cms/yes/pl/52/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1775653014/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAOWwT9VDT_9PovvFPMzbWvz3thofBQbUJm4XqYSXCcciAiBgEzqh8k_RFGUnJ2fyoUVBBXOYX7Qr0borBw0lmXJNNw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRAIgPB_nXtqR0jTgZAH68v9ZsLl25kQMxScvwpjamh-8rcoCICmI8otbzI8laONr3QiD32srTRf_cSfV76KecHoG9MmL/playlist/index.m3u8
