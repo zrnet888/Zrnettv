@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ZR NET TV
-https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Magna channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1,mnctv
