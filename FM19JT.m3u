@@ -4,8 +4,8 @@
 https://s1.cloudmu.id/listen/prambors/stream
 #EXTINF:-1,delta fm
 https://s1.cloudmu.id/listen/delta_fm/stream
-#EXTINF:-1,smart fm Jakarta
-https://cast2.my-control-panel.com/proxy/radioso3/stream
+#EXTINF:-1,Montini manado
+https://stream.montiniradio.com:8443/manado_radiomontini_dual
 #EXTINF:-1,smart fm manado
 https://cast2.my-control-panel.com/proxy/radios14/stream
 #EXTINF:-1,RRI PRO 1 Manado
@@ -21,4 +21,4 @@ https://i.klikhost.com:9044/stream
 #EXTINF:-1,Gita lestari fm bitung
 http://svara-stream.radioddns.net:8900/gitalestarifmbitung_mono
 #EXTINF:-1,zr net (radio)
-https://stream.montiniradio.com:8443/manado_radiomontini_dual
+https://stream.zeno.fm/iwcyhq56nwiuv
