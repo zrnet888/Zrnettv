@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1, my radio
+#EXTINF:-1,rri palu pro 4
 https://stream-node1.rri.co.id/streaming/14/9114/rripalupro4.mp3
+#EXTINF:-1,poliyama top fm
+https://live4.rs3fm.com:8001/poliyama
+#EXTINF:-1,RRI Gorontalo pro 2
+https://stream-node1.rri.co.id/streaming/15/9115/rrigorontalopro2.mp3
+#EXTINF:-1,Iswara fm makasar
+https://stream.radiojar.com/seqmzfeu5k8uv
