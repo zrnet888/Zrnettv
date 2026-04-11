@@ -13,8 +13,8 @@ https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 #EXTINF:-1,moonbug
 https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
-#EXTINF:-1,BBC kids
-https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
+#EXTINF:-1,rtv
+https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 #EXTINF:-1,FIFA+
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1,Bein sport xtra
