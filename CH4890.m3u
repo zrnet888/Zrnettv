@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1,inews
-https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Magna channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1,mnctv
-http://103.66.62.83:8000/play/a00c/index.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1,baby shark
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,SINPO TV
@@ -28,4 +28,4 @@ https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:-1,rcti
 https://allcutv.rctiplus.id/rcti2023.m3u8
 #EXTINF:-1,ZR net TV
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
