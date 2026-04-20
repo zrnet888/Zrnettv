@@ -4,7 +4,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTINF:-1,Magna channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1,mnctv
-https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/manifest.mpd
+http://103.66.62.83:8000/play/a00c/index.m3u8
 #EXTINF:-1,baby shark
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,SINPO TV
@@ -28,4 +28,4 @@ https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:-1,rcti
 https://allcutv.rctiplus.id/rcti2023.m3u8
 #EXTINF:-1,ZR net TV
-https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8?64000=2-avc1_2000000=6.m3u8
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
