@@ -26,5 +26,5 @@ http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1,MDTV
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:-1,ZR
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1776712437/ei/lSbmabD-BvOM1_oPvIOFuAg/ip/2001:448a:7061:29d4:559c:7381:11f8:6f34/id/AahlKJ6PR60.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr2---sn-2uuxa3vh-hqjd.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AUUZDGJT3pnu7fh_f2dOlX0-2z6ZZ9sj8ubwsHV7SrrV8hnkmKeO_llBv4eCfdBiRDvylqkThOUkXOKT/spc/jlWavW3mC9qKdzeTtrXMjPX5kw575-fceZbHpypWB124QF7Vxw/vprv/1/reg/0/playlist_type/DVR/initcwndbps/890000/met/1776690838,/mh/Cc/mm/44/mn/sn-2uuxa3vh-hqjd/ms/lva/mv/m/mvi/2/pcm2cms/yes/pl/52/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1776690291/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgbfwNSA7HZtlztFtWo1JDnj06zlZy_VSgK_tCNXGNOpsCIH4I8Xy3oF7vIDbEhqRTTgJdR7leo6RARIPOSQ6j2QMs/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/APaTxxMwRgIhAJ8TiKJRqhdJQ0pGbB-OoEBL5o8OyeHmNXu30E2IG87xAiEAh487MEC2bx3BFgfhzQD2P41nPH1vlVJ2EYVhCq1Jy68%3D/playlist/index.m3u8
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
