@@ -26,6 +26,6 @@ http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1,MDTV
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:-1,rcti
-https://cdn10jtedge.indihometv.com/atm/DASH/rcti/manifest.mpd
+https://allcutv.rctiplus.id/rcti2023.m3u8
 #EXTINF:-1,ZR net TV
-https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/manifest.mpd
+https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8?64000=2-avc1_2000000=6.m3u8
