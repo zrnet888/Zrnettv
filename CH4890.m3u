@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="65" group-title="📂 CH VISION+",Animax
+#EXTINF:-1 animax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
