@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 animax
+#EXTINF:-1,Cartoon network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1,Magna channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
