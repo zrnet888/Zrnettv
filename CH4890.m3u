@@ -3,8 +3,8 @@
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",Magna channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",RTV
+https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",baby shark
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",Inews
