@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXTINF:-1,Channel 1
+https://videostream.jpbgdigital.com/NOWTV.m3u8
