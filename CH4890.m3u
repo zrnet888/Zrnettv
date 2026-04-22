@@ -25,5 +25,5 @@ https://github.com/zrnet888/Zrnettv/blob/main/segmen1%2F768x432-segment.ts
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",MDTV
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
-#EXTINF:-1 tvg-name="ID - MNCTV" tvg-id="MNCTV.id" group-title="1",ZR-NET TV
+EXTINF:-1 tvg-name="ID - MNCTV" tvg-id="MNCTV.id" group-title="1",ZR-NET TV
 https://tv.ngebutz.my.id/live/2359819BA55280038B6D0B1419EAFD37/7.ts
