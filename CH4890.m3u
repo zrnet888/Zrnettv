@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1,Cartoon network
+#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",Cartoon network
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:-1,Magna channel
+#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",Magna channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1,sukan RTM
+#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1,baby shark
+#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",baby shark
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,Inews
+#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",Inews
 https://tv.ngebutz.my.id/live/2359819BA55280038B6D0B1419EAFD37/11.ts
-#EXTINF:-1,MBG TV
+#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",MBG TV
 https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
-#EXTINF:-1,moonbug
+#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",moonbug
 https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
-#EXTINF:-1,rodjatv
+#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",rodjatv
 https://rodjatv.com/rodjatv/live.m3u8
-#EXTINF:-1,FIFA+
+#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",FIFA+
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1,Bein sport xtra
+#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",Bein sport xtra
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1,stingray (music)
+#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",stingray (music)
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1,Kawanua tv
+#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",Kawanua tv
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1,MDTV
+#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",MDTV
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
-#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="2",ZR-NET
+#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",ZR-NET
 https://tv.ngebutz.my.id/live/2359819BA55280038B6D0B1419EAFD37/7.ts
