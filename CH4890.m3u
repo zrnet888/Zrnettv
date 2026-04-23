@@ -8,7 +8,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-327
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",baby shark
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",Inews
-https://tv.ngebutz.my.id/live/2359819BA55280038B6D0B1419EAFD37/11.ts
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",MBG TV
 https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",moonbug
@@ -20,10 +20,10 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",Bein sport xtra
 https://bein-xtra-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",MNC TV
-https://tv.ngebutz.my.id/live/2359819BA55280038B6D0B1419EAFD37/7.ts
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",Kawanua tv
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",MDTV
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:-1 tvg-name="ID - MNCTV" tvg-id="MNCTV.id" group-title="1",ZR-NET TV
-https://tv.ngebutz.my.id/live/2359819BA55280038B6D0B1419EAFD37/7.ts
+https://cdn10jtedge.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd
