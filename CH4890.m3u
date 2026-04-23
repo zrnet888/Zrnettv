@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",Cartoon network
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",kompas tv
+https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",Magna channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",Kids Station
-https://nl.utako.moe/kids_station/index.m3u8
+#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",GTV
+https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",baby shark
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",Inews
@@ -13,8 +13,8 @@ https://tv.ngebutz.my.id/live/2359819BA55280038B6D0B1419EAFD37/11.ts
 https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",moonbug
 https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
-#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",rodjatv
-https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",RCTI
+https://cdn10jtedge.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",FIFA+
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",Bein sport xtra
