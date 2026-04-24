@@ -1,11 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",Prambors tv (MAX STREAMTV)
 https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",ENTERTAINMENT (V+)
-https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 group-title="1" tvg-logo="https://www.visionplus.id/images/repository/632/632-LOGO-m.png",Entertainment
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
+https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",GTV (MAX STREAMTV)
 https://cdn10jtedge.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 group-title="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_Kids_TV.png",Kids TV (V+)
+#EXTINF:-1 group-title="1" tvg-logo="https://www.visionplus.id/images/repository/623/623-LOGO-m.png",Kids TV (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
