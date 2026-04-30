@@ -45,4 +45,7 @@ http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",MDTV
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:-1 tvg-name="1" tvg-id="zr" group-title="1",ZR-NET TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1777480479/ei/v97xacCqCNWRssUPqv2D2QM/ip/2404:8000:1111:f8a:1d1e:b3d3:feff:fedf/id/vuRdyC9V49g.1/itag/93/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D134/rqh/1/hls_chunk_host/rr5---sn-npoeenlk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AbKmrwpU5QIkG9RNwEFyR36SYuUXTC-ghr1CCEeSja6zxi2D0JHenKtRdvbv8cwazxSTrula1deKlSHH/spc/96Xrvx0gYrtY6LYXxmnfZbnZim1Cg25U-Q4vdN-htOHvoupIcA/vprv/1/reg/0/playlist_type/DVR/initcwndbps/1698750/met/1777458879,/mh/g5/mm/44/mn/sn-npoeenlk/ms/lva/mv/m/mvi/5/pl/49/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1777458506/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhANqW9saEIIHHu93m5vnrkU8SoEDs9z-h_gT5i8-95_8oAiEAryyetZj4Xb0aLFFRANKHW9uzcFSAqTWCj9Qft_26Pf0%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgRi_lN7XPSuQzQ0HBIL4pLOwddvKql0WFCQK-b4eOXU0CIH3FgcuqUctikDRFDQFPlwVS4ti2X2vHqjIpDNhvUSSz/playlist/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
