@@ -22,7 +22,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h248/index.m3u8?backup=true
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd?backup=true
 #EXTINF:-1 tvg-id="H" group-title="1" tvg-logo="https://www.visionplus.id/images/repository/720/507720-LOGO-m.png",RCTI
 https://cdn10jtedge.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-id="spotv backup" group-title="1" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_spotv.png",SPOTV
@@ -48,4 +48,4 @@ https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd?backup=true
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd?v=1
