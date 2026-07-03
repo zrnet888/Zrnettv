@@ -52,7 +52,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 #EXTINF:-1 tvg-id="L" group-title="1",Kawanua tv
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="M" group-title="1",MDTV
-https://img.magnific.com/vektor-premium/no-signal-tv-test-pattern-screen_295128-2013.jpg
+https://img.magnific.com/vektor-premium/no-signal-tv-test-pattern-screen_295128-2013.mp4
 #EXTINF:-1 tvg-id="MNCTV-backup2" group-title="1",ZR-NET TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
