@@ -1,26 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1,Prambors
+#EXTINF:-1 group-title"fm8",Prambors
 https://s1.cloudmu.id/listen/prambors/stream
-#EXTINF:-1,delta fm
+#EXTINF:-1 group-title"fm8",delta fm
 https://s1.cloudmu.id/listen/delta_fm/stream
-#EXTINF:-1,Montini manado
+#EXTINF:-1 group-title"fm8",Montini manado
 https://stream.montiniradio.com:8443/manado_radiomontini_dual
-#EXTINF:-1,smart fm manado
+#EXTINF:-1 group-title"fm8",smart fm manado
 https://cast2.my-control-panel.com/proxy/radios14/stream
-#EXTINF:-1,RRI PRO 1 Manado
+#EXTINF:-1 group-title"fm8",RRI PRO 1 Manado
 https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro1.mp3
-#EXTINF:-1,RRI PRO 2 Manado
+#EXTINF:-1 group-title"fm8",RRI PRO 2 Manado
 https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro2.mp3
-#EXTINF:-1,Trendy fm manado
+#EXTINF:-1 group-title"fm8",Trendy fm manado
 https://i.klikhost.com:8018/stream
-#EXTINF:-1,ral fm
+#EXTINF:-1 group-title"fm8",ral fm
 https://svara-stream.radioddns.net/manado_ralfm
-#EXTINF:-1,memora Prambors Manado
+#EXTINF:-1 group-title"fm8",memora Prambors Manado
 https://i.klikhost.com:9044/stream
-#EXTINF:-1,Gita lestari fm bitung
+#EXTINF:-1 group-title"fm8",Gita lestari fm bitung
 http://svara-stream.radioddns.net:8900/gitalestarifmbitung_mono
-#EXTINF:-1, Citra Fm Manado
+#EXTINF:-1 group-title"fm8",Citra Fm Manado
 http://svara-stream.radioddns.net:8900/citrafmmanado_mono
-#EXTINF:-1,zrnet
-https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 group-title"fm8",Prambors TV
+https://cdnbal1.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=7-3277707030000000.mpd
