@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="SoccerChannel.id@SD" group-title="1",FIFA WC 2026
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
 #EXTINF:-1 tvg-id="RTV backup" group-title="1" ,RTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
