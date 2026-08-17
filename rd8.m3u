@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Delta FM
-https://s1.cloudmu.id/listen/delta_fm/stream
+http://svara-stream.radioddns.net:8900/citrafmmanado_mono
 #EXTINF:-1,poliyama top fm
 https://live4.rs3fm.com:8001/poliyama
 #EXTINF:-1,RRI Gorontalo pro 2
@@ -14,9 +14,9 @@ https://stream.laut.fm/djcryexx
 #EXTINF:-1,radio kabar baik tomohon
 https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro4.mp3
 #EXTINF:-1,San Andreas FM makasar
-https://stream.zeno.fm/iwcyhq56nwiuv
+http://svara-stream.radioddns.net:8900/citrafmmanado_mono
 #EXTINF:-1,San Andreas FM Denpasar
-https://asv.alhastream.com:1265/rdafm
+http://svara-stream.radioddns.net:8900/citrafmmanado_mono
 #EXTINF:-1,today hits
 https://beamfm.streeemer.com/listen/beam_fm/radio.aac
 #EXTINF:-1,esencia kpop
