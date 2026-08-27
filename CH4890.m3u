@@ -43,8 +43,8 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd?backup=true
-#EXTINF:-1 tvg-id="RRINET1" group-title="1",RRI NET
-https://rrinet.rri.co.id/hls/live.m3u8
+#EXTINF:-1 tvg-id="RRINET1" group-title="1",NOW TV
+https://videostream.jpbgdigital.com/NOWTV.m3u8
 #EXTINF:-1 tvg-id="L" group-title="1",Prambors TV
 https://cdnbal1.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-id="MusicTV.id@SD" group-title="1" tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-m.png",Music TV
@@ -52,5 +52,5 @@ https://cdnbal1.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=7-327
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
-#EXTINF:-1 tvg-id="rodja@hd" group-title="1",rodjatv
-https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-id="ZP5" group-title="1",RED BULL TV
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
