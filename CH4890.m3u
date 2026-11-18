@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SoccerChannel.id@SD" group-title="1",z8
-http://stream.cammonitorplus.net/1752/index.m3u8
-#EXTINF:-1 tvg-id="Mutv" group-title="1" ,tvmu
-https://e.siar.us/live/tvmu.m3u8
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png" group-title="Indonesia Channels",RCTI (Vision+)
+https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/H-nyot3OCOIHY7qtKmguKyIUeBw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/870/ca65b5.png" group-title="Indonesia Channels",MNC TV (Vision+)
+https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="C" group-title="1",VTV
 https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 tvg-id="mentaritv backup" group-title="1",Zoomoo
