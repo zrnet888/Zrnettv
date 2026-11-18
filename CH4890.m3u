@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SoccerChannel.id@SD" group-title="1",FIFA WC 2026
+#EXTINF:-1 tvg-id="SoccerChannel.id@SD" group-title="1",z8
 http://stream.cammonitorplus.net/1752/index.m3u8
 #EXTINF:-1 tvg-id="Mutv" group-title="1" ,tvmu
 https://e.siar.us/live/tvmu.m3u8
@@ -19,19 +19,13 @@ https://stream.matrixtv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
-#EXTINF:-1 tvg-id="beinsport backup" group-title="1" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png",beIN Sports 1
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd?backup=true
+#EXTINF:-1 tvg-id="SoccerChannel.id@SD" group-title="1",FOX Sport
+http://stream.cammonitorplus.net/1752/index.m3u8
 #EXTINF:-1 tvg-id="RRINET1" group-title="1",NOW TV
 https://videostream.jpbgdigital.com/NOWTV.m3u8
 #EXTINF:-1 tvg-id="L" group-title="1",Prambors TV
 https://cdnbal1.indihometv.com/atm/DASH/pramborstv/pramborstv-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="MusicTV.id@SD" group-title="1" tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-m.png",Music TV
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+#EXTINF:-1 tvg-id="Mutv" group-title="1" ,tvmu
+https://e.siar.us/live/tvmu.m3u8
 #EXTINF:-1 tvg-id="ZP5" group-title="1",RED BULL TV
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
