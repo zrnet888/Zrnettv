@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://thumbor.prod.vidiocdn.com/9c-sEWp6Du7DoWDn56cjma0gMpY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/665/337c4d.png" group-title="1",RCTI (Vision+)
-https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
+#EXTINF:-1 tvg-id="RCTI.id@SD" group-title="1" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_RCTI-180x180_2025_11_06_13_09_06.jpg",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
 #EXTINF:-1 tvg-id="MNCTV.id@SD" group-title="1" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_MNC-180x180_2025_11_06_13_06_02.jpg",MNCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -23,9 +23,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?app_bundle=%5BFT_APP_STORE
 https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8
 #EXTINF:-1 tvg-id="H" group-title="1",matrixtv
 https://stream.matrixtv.id/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD" group-title="1" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
+#EXTINF:-1 tvg-id="StaraTV.id@Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="1",Stara TV Jakarta (1080p)
+https://jakarta.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="SoccerChannel.id@SD" group-title="1",FOX Sport
 http://stream.cammonitorplus.net/1752/index.m3u8
 #EXTINF:-1 tvg-id="RRINET1" group-title="1",NOW TV
