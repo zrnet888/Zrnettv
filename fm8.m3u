@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="fm8",RRI PRO 1 Manado
+#EXTINF:-1 group-title="fm8",RRI PRO 1 Manado [NOT 24/7]
 https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro1.mp3
 #EXTINF:-1 group-title="fm8",RRI PRO 2 Manado
 https://stream-node1.rri.co.id/streaming/40/9040/rrimanadopro2.mp3
