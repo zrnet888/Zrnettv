@@ -15,9 +15,10 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD2" group-title="1" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_rtv.png",RTV
+#EXTINF:-1 tvg-id="RajawaliTV.id@SD2" group-title="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Nick_Jr._Logo_(2023–present).png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content",Nick Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="FU350932" tvg-logo="https://tcl-channel-cdn.ideonow.com/static/channel/FU350932/1698998058010549898-logo_color.png" group-title="1",True and the Rainbow Kingdom
 https://stream-us-east-1.getpublica.com/playlist.m3u8?app_bundle=%5BFT_APP_STORE_ID%5D&app_category=%5BAPP_CATEGORY%5D&app_domain=%5BAPP_DOMAIN%5D&app_id=%5BAPP_ID%5D&app_name=%5BFT_APP_NAME%5D&app_store_url=%5BAPP_STORE_URL%5D&app_version=%5BAPP_VERSION%5D&avod=1&cb=1787015593&channelname=True+and+the+Rainbow+Kingdom&content_cat=&content_channel=True+and+the+Rainbow+Kingdom&content_genre=&content_id=1377&content_language=en&content_length=86400&content_network=TCL&content_prodqual=1&content_producer=tatrk&content_rating=TV-Y&content_series=%5BContent+Series%5D&content_title=%5BContent+Title%5D&coppa=%5BFT_COPPA%5D&device_make=%5BDEVICE_MAKE%5D&device_model=%5BDEVICE_MODEL%5D&device_type=%5BDEVICE_TYPE%5D&did=%5BFT_SYNTHETIC_AD_ID%5D&genre=&hls_marker=1&ifa_type=%5BFT_IFA_TYPE%5D&ifatype=%5BFT_IFA_TYPE%5D&is_lat=%5BFT_TRACKING_ENABLED%5D&live=1&max_ad_duration=65&min_ad_duration=2&network_id=5251&player_height=1080&player_width=1920&publisher=tatrk&ssai_enabled=1&ssai_vendor=Publica&ua=%5BFT_USER_AGENT%5D&us_privacy=1YN-
 #EXTINF:-1 tvg-id="kidstv-backup" group-title="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxc9VC-_nyd3n8hLXOXZv9-Mrop4wAnBxu048_JbL3ITOB6GLloDYtNWc&s=10",Moon Bug
@@ -41,5 +42,4 @@ https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="z8" group-title="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVwsoOUIoi9IT3ZLtxWAiUX96gVDM1u5PxSrFuRrC4A&s=10",Z+📡
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://dsgtq5sngxkde.cloudfront.net/nickjr/index.m3u8
+https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
