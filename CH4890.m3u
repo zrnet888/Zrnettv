@@ -15,7 +15,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD2" group-title="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Nick_Jr._Logo_(2023–present).png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content",Nick Jr
+#EXTINF:-1 tvg-id="nickjr.id@SD" group-title="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Nick_Jr._Logo_(2023–present).png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content",Nick Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://dsgtq5sngxkde.cloudfront.net/nickjr/index.m3u8
